@@ -1,0 +1,17 @@
+.container{
+    margin-top: 7rem;
+}
+body{
+    background-color: black;
+}
+
+.card2 :hover{
+    transform: scale(1.05);
+    z-index: 1;
+}
+.card3  :hover{
+    transform: scale(1.05);
+    z-index: 1
+}
+
+
